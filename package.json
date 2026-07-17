@@ -1,16 +1,31 @@
 {
   "name": "tvtime-to-trakt",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "Import your TV Time watch history to Trakt with smart matching and duplicate detection",
   "type": "module",
-  "scripts": {
-    "auth": "node auth.js",
-    "import": "node import.js"
+  "main": "index.js",
+  "bin": {
+    "tvtime-to-trakt": "index.js"
   },
-  "keywords": [],
+  "scripts": {
+    "start": "node index.js",
+    "auth": "node index.js --auth",
+    "import": "node index.js",
+    "import:dry": "node index.js --dry-run",
+    "import:resume": "node index.js --resume",
+    "cache:clear": "node index.js --cache-clear"
+  },
+  "keywords": [
+    "trakt",
+    "tvtime",
+    "importer",
+    "watch-history"
+  ],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  },
   "dependencies": {
     "axios": "^1.18.1",
     "csv-parser": "^3.2.1",

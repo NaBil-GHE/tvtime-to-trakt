@@ -1,0 +1,131 @@
+{
+  "shows_the 100_unknown": {
+    "result": {
+      "ids": {
+        "imdb": "tt2661044",
+        "plex": {
+          "guid": "5d9c086d705e7a001e6dc723",
+          "slug": "the-100"
+        },
+        "slug": "the-100",
+        "tmdb": 48866,
+        "tvdb": 268592,
+        "trakt": 48562
+      },
+      "airs": {
+        "day": "Wednesday",
+        "time": "20:00",
+        "timezone": "America/New_York"
+      },
+      "year": 2014,
+      "title": "The 100",
+      "votes": 15066,
+      "colors": {
+        "poster": [
+          "#9BB870",
+          "#2D4A1E"
+        ]
+      },
+      "genres": [
+        "drama",
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "images": {
+        "logo": [
+          "media.trakt.tv/images/shows/000/048/562/logos/medium/bf0af8ff52.png.webp"
+        ],
+        "thumb": [
+          "media.trakt.tv/images/shows/000/048/562/thumbs/medium/4252a4d8b6.jpg.webp"
+        ],
+        "banner": [
+          "media.trakt.tv/images/shows/000/048/562/banners/medium/3453fb7781.jpg.webp"
+        ],
+        "fanart": [
+          "media.trakt.tv/images/shows/000/048/562/fanarts/medium/1e3ce34c11.jpg.webp"
+        ],
+        "poster": [
+          "media.trakt.tv/images/shows/000/048/562/posters/medium/66cfbc0070.jpg.webp"
+        ],
+        "clearart": [
+          "media.trakt.tv/images/shows/000/048/562/cleararts/medium/ae5572cd3a.png.webp"
+        ]
+      },
+      "rating": 7.627505779266357,
+      "status": "ended",
+      "country": "us",
+      "network": "The CW",
+      "runtime": 42,
+      "tagline": "Survival isn't who you are. It's who you become.",
+      "trailer": "https://youtube.com/watch?v=aDrsItJ_HU4",
+      "homepage": "https://www.cwtv.com/shows/the-100/",
+      "language": "en",
+      "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
+      "languages": [
+        "en"
+      ],
+      "subgenres": [
+        "survival",
+        "post-apocalyptic-future",
+        "apocalypse",
+        "space",
+        "space-travel"
+      ],
+      "social_ids": {
+        "twitter": "cwthe100",
+        "facebook": "cwthe100",
+        "instagram": "cw_the100",
+        "wikipedia": "The_100_(TV_series)"
+      },
+      "updated_at": "2026-07-17T15:21:08.000Z",
+      "first_aired": "2014-03-20T00:00:00.000Z",
+      "certification": "TV-14",
+      "comment_count": 198,
+      "total_runtime": 4197,
+      "aired_episodes": 100,
+      "original_title": "The 100",
+      "available_translations": [
+        "ar",
+        "bg",
+        "bs",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "fa",
+        "fi",
+        "fr",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ka",
+        "km",
+        "ko",
+        "lt",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh"
+      ]
+    },
+    "cachedAt": "2026-07-17T20:51:35.635Z"
+  }
+}
