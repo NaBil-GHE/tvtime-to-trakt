@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "auth": "node auth.js",
+    "import": "node import.js"
   },
   "keywords": [],
   "author": "",
@@ -17,3 +19,5 @@
     "open": "^11.0.0"
   }
 }
+  
+
